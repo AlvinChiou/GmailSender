@@ -1,6 +1,7 @@
 GmailSender
 ===========
-Need:
+Need import:
+
 1. javaee.jar
 http://www.java2s.com/Code/JarDownload/javaee/javaee.jar.zip
 
